@@ -17,6 +17,19 @@
 ### 前侧 3/4 视角
 ![前侧效果图](designs/front-view.webp)
 
+## 📱 用到 Tesla App（数字车衣）
+
+`app-wrap/Chuba_Wrap.png` 是按 Tesla 官方模板做的车衣文件（1024×1024 PNG，约 370KB），
+可直接上传到 Tesla App，让初八显示在 App 和车机屏幕的 3D 车模上：
+
+1. 在手机上下载 `app-wrap/Chuba_Wrap.png`（仓库页面点文件 → Download）
+2. 打开 Tesla App（需 v4.59.0 或更高版本）
+3. 进入 **Creations → Wrap → Upload**，选中这张 PNG
+4. 在 3D 预览里转着看看效果，点 **Upload & Apply Wrap**
+5. 回到 App 车辆主页就能看到初八号了；车机上 Toybox → Paint Shop → Wraps 里也能找到
+
+> 这是显示在 App / 车机屏幕上的数字车衣，不会改变真实车漆，纯属好玩。
+
 ## 文件结构
 
 ```
